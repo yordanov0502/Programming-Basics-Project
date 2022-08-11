@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\yorda\Desktop\СИТ\Първи семестър\БП\Семестриална домашна работа\sem_dom_rabota\Library\Source.cpp(506,16): warning C4244: '=': conversion from 'std::streamoff' to 'long', possible loss of data
+  Library.vcxproj -> C:\Users\yorda\Desktop\СИТ\Първи семестър\БП\Семестриална домашна работа\sem_dom_rabota\Debug\Library.exe
