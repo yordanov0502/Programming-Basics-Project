@@ -4,5 +4,5 @@ This is repository of my project based on Programming Basics(C++).
 
 The project is about a Library Information System.
 <p align="center">
-  <img src="https://github.com/yordanov0502/OOP1-project/blob/master/image2.png?raw=true" />
+  <img src="https://github.com/yordanov0502/Programming-Basics-Project/blob/main/image1.png?raw=true" />
 </p>
